@@ -1,0 +1,6 @@
+./
+*.pdf
+
+logs/
+main.log
+*.log
